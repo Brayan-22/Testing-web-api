@@ -1,0 +1,2 @@
+newman run "https://api.getpostman.com/collections/<collection_id>?apikey=<apikey>" 
+--environment "https://api.getpostman.com/environments/<env_id>?apikey=<apikey>"
